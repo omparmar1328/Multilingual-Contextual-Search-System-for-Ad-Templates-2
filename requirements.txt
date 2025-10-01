@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+transformers==4.44.2
+torch>=2.1.0
+sentence-transformers==3.0.1
+langid==1.1.6
+elasticsearch==8.15.1
+numpy==1.26.4
+pydantic==2.8.2
+googletrans==4.0.0rc1
+sentencepiece==0.2.0
+
